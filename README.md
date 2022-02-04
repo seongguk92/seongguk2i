@@ -1,4 +1,4 @@
-### Hi there 👋
+ [![seongguk's github stats](https://github-readme-stats.vercel.app/api?username=seongguk2i)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
