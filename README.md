@@ -1,4 +1,4 @@
- [![seongguk's github stats](https://github-readme-stats.vercel.app/api?username=seongguk2i)](https://github.com/anuraghazra/github-readme-stats)
+ [![seongguk's github stats](https://github-readme-stats.vercel.app/api?username=seongguk2i&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
